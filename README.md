@@ -1,5 +1,5 @@
-'📊 Swiggy Sales Analysis (Excel Dashboard)'
-Overview
+## 📊 Swiggy Sales Analysis (Excel Dashboard)
+# Overview
 This project presents a comprehensive sales analysis for Swiggy using advanced Excel techniques. The dashboard visualizes key performance metrics, customer behavior, and regional trends to support strategic decision-making. It showcases V Gurunandan’s expertise in data storytelling, business intelligence, and Excel-based analytics.
 🎯 Objectives
 - Analyze Swiggy’s sales performance across time, geography, and food categories
