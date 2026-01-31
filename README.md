@@ -17,16 +17,6 @@ This project presents a comprehensive sales analysis for Swiggy using advanced E
 - Size: ~32 MB (tracked via Git LFS)
 - Fields: Order value, food type, location, rating, timestamp, restaurant name
 
-## 📈 Key Insights from the Dashboard
-🚀 Top-Level Metrics
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
-
 ## 📅 Time-Based Trends
 - Monthly Sales: Stable performance from Jan–Aug, peaking near ₹7.0M
 - Weekly Sales: Gradual growth with fluctuations, ranging from ₹0.5M to ₹2.0M
